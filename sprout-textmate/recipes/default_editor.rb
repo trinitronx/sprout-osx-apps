@@ -1,4 +1,4 @@
-include_recipe "sprout-osx-apps::textmate"
+include_recipe "sprout-textmate::textmate"
 
 # This sets TextMate to be the default editor for
 # .xml, .rb, .erb, .plain-text, .yml, .yaml
