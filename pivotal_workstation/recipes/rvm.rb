@@ -1,5 +1,4 @@
 include_recipe "pivotal_workstation::git"
-include_recipe "pivotal_workstation::apple_gcc42"
 
 rvm_version  = version_string_for("rvm")
 
